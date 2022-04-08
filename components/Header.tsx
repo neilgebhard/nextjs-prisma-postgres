@@ -14,7 +14,7 @@ const Header: React.FC = () => {
     <div className="left">
       <Link href="/">
         <a className="bold" data-active={isActive("/")}>
-          Neil's Feed
+          My Feed
         </a>
       </Link>
       <style jsx>{`
